@@ -52,6 +52,7 @@ Styling: Tailwind CSS
 🚀 Getting Started
 📦 Installation
 git clone https://github.com/your-username/password-generator.git
+
 cd password-generator
 
 
